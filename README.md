@@ -10,4 +10,4 @@ This was the requested requirements:
 6. Add some obstacles to the map using the basic built-in shapes! The vehicles should be able to navigate around them and the obstacles should block projectiles.
 7. Build an elevated platform and a ramp which vehicles can navigate up to!
 
-https://github.com/ianfranco98/H5UnrealTechnicalTest/assets/43629439/341dbf3d-d3b8-4a95-b5fc-b0b5476dce2c
+https://github.com/ianfranco98/H5UnrealTechnicalTest/assets/43629439/8fd98447-af56-44db-bb3c-0750d2d25ed3
